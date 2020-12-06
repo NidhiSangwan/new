@@ -1,0 +1,6 @@
+print("hello world")
+print('hello\tworld')
+print('hello\nworld')
+print('hello\world')
+print('hello\\world')
+print('hello\bworld')
